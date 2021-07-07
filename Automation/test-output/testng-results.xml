@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26806" started-at="2021-07-03T15:45:07 IST" finished-at="2021-07-03T15:45:34 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26806" started-at="2021-07-03T15:45:07 IST" finished-at="2021-07-03T15:45:34 IST">
+      <class name="com.actitime.testscripts.TestClsMck">
+        <test-method status="PASS" signature="testlogin()[pri:0, instance:com.actitime.testscripts.TestClsMck@17579e0f]" name="testlogin" duration-ms="26735" started-at="2021-07-03T15:45:07 IST" finished-at="2021-07-03T15:45:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+      </class> <!-- com.actitime.testscripts.TestClsMck -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
